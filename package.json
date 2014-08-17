@@ -1,0 +1,23 @@
+{
+  "name": "email-extractor",
+  "description": "extract emails address from website by following links",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": "Moein Hosseini <moein7tl@gmail.com> (http://moeinhm.name)",
+  "keywords": ["scraper","crawler","extract","mail","email","spider"],
+  "licenses": {
+    "type": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moein7tl/email-extractor.git"
+  },
+  "bugs": {
+    "url": "http://github.com/moein7tl/email-extractor/issues"
+  },
+  "homepage": "https://github.com/moein7tl/email-extractor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
