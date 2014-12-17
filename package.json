@@ -1,7 +1,7 @@
 {
   "name": "email-extractor",
   "description": "extract emails address from website by following links",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "main": "./lib",
   "author": "Moein Hosseini <moein7tl@gmail.com> (http://moeinhm.name)",
   "keywords": ["scraper","crawler","extract","mail","email","spider"],
