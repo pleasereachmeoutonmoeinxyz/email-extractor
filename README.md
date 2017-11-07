@@ -14,7 +14,7 @@ How to use
 ```javascript
 var extractor   =   require('email-extractor').Extractor;
 
-extractor("http://github.com",function(url,email),[maxConnections]){
+extractor("http://github.com",function(url,email,[maxConnections]){
     console.log(url,email);
 });
 ```
